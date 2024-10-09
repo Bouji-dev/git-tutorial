@@ -7,3 +7,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 For demo click [here](https://www.google.com/)
 
 ![Bouji](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3cfILu0dqQeTdcYFXEKEP3aFHn2o6rZkqlg&s)
+
+```c++
+int main(){
+    int a=0;
+    char b;
+
+    cout<<"Hello github.";
+}
