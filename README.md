@@ -21,7 +21,7 @@ int main(){
 | Name       | Last Name |
 |------------|-----------|
 | Ehsan      | Shayegh   |
-|            |           |
+
 
 ---
 
